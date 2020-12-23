@@ -1,6 +1,7 @@
 <h1 align="center">Anh Phan</h1>
 
 <p align="center">:computer: Web Developer</p>
+
 ## Education
 - 10/2020
   - Student at Ton Duc Thang University
