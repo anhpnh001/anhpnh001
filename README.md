@@ -1,7 +1,6 @@
-<h1 align="center">:anger: Anh Phan</h1>
+<h1 align="center">Anh Phan</h1>
 
-<h3 align="center">:computer: Web Developer</h3>
-
+<p align="center">:computer: Web Developer</p>
 ## Education
 - 10/2020
   - Student at Ton Duc Thang University
